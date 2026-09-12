@@ -43,6 +43,4 @@ python tic_tac_toe.py
 python -m unittest test_tic_tac_toe.py
 ```
 
-## Notes
 
-This project is beginner-friendly and does not require any external libraries.
